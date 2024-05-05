@@ -35,6 +35,7 @@
 - IRIX 11/4
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
+- (buying) Leica Tele-Elmarit-M 90/2.8
 - NKJ Nikkor-N Auto 24/2.8 Pre-Ai
 - Nikkor 135/2 Ai-S
 - Nikkor 20/3.5 Ai
@@ -65,6 +66,6 @@
 - Tamron 150-600/5-6.3
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
-- Voigtlander Color Skopar 21/4 P VM
-- Voigtlander Nokton Classic 40/1.4 MC VM
-- Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
+- (in delivery) Voigtlander Color Skopar 21/4 P VM
+- (in delivery) Voigtlander Nokton Classic 40/1.4 MC VM
+- (in delivery) Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
