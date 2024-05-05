@@ -1,71 +1,70 @@
 # My cameras and lenses
 
-AF Micro Nikkor 105/2.8 AF-D
-AF Nikkor 14/2.8 AF-D
-AF Nikkor 28-85 3.5-4.5 AF-D
-AF Nikkor 28/1.4 AF-D
-AF Nikkor 50/1.4 AF-D
-AF Nikkor 50/1.8 AF-D
-AF Nikkor 80-200/2.8 AF-D
-AF Nikkor 85/1.4
-AF Teleconverter TC-16A
-AF-D Nikkor 35/2
-Bausch & Lomb 10X12 Tessar 14-5/8" 371/4.5
-Canon TS-E 17/4
-Carl Zeiss Hasselblad-V Distagon 40/4 T* C
-Carl Zeiss Hasselblad-V Planar 80/2.8 C
-Carl Zeiss Hasselblad-V Sonnar 150/4 C
-Carl Zeiss Hasselblad-V Sonnar 250/5.6 C
-EL-Nikkor 105/5.6
-EL-Nikkor 135/5.6
-EL-Nikkor 75/4
-EL-Nikkor 80/5.6
-Fisheye Nikkor 16/2.8 Ai
-Fujinon GF 120/4 Macro
-Fujinon GF 20-35/4
-Fujinon GF 250/4
-Fujinon GF 45-100/4
-Fujinon GF 45/2.8
-Fujinon GF 50/3.5
-Fujinon GF 55/1.7
-Fujinon GF 80/1.7
-GFX 100s body
-GFX 50R fs body
-GFX 50R fs-mono body
-IRIX 11/4
-IRIX 45/1.4 GFX
-Kuribayashi clone 35/3.5
-NKJ Nikkor-N Auto 24/2.8 Pre-Ai
-Nikkor 135/2 Ai-S
-Nikkor 20/3.5 Ai
-Nikkor 50/1.8 Ai
-Nikkor 55/1.2 Ai
-Nikkor 85/1.4 Ai-S
-Nikkor ED 300/2.8 Ai
-Nikkor QD-C 15/5.6 Pre-Ai
-Nikkor-N Auto 28/2 Ai
-Nikkor-N Auto 35/1.4 Ai
-Nikkor-Q Auto 200/4 Pre-Ai
-Nikon D3 body
-Nikon D600 fs body
-Nikon D600 fs-mono body
-Nikon Df body
-Nikon F4 body
-Nikon FA body
-Nikon FM2 body
-Nikon Series-E 100/2.8
-Pentax 67 105/2.4
-Pentax 67 body
-SMC Pentax 67 165/2.8
-SMC Pentax-6x7 55/4
-SMC Pentax-A 645 35/3.5
-SMC Pentax 67 45/4
-Soligor 135/3.5
-Soligor 35/3.5
-Tamron 150-600/5-6.3
-UV quartz lens 50/3.5 UV5035BK2
-UV-Nikkor 105/4.5 Ai
-Voigtlander Color Skopar 21/4 P VM
-Voigtlander Nokton Classic 40/1.4 MC VM
-Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
-
+- AF Micro Nikkor 105/2.8 AF-D
+- AF Nikkor 14/2.8 AF-D
+- AF Nikkor 28-85 3.5-4.5 AF-D
+- AF Nikkor 28/1.4 AF-D
+- AF Nikkor 50/1.4 AF-D
+- AF Nikkor 50/1.8 AF-D
+- AF Nikkor 80-200/2.8 AF-D
+- AF Nikkor 85/1.4
+- AF Teleconverter TC-16A
+- AF-D Nikkor 35/2
+- Bausch & Lomb 10X12 Tessar 14-5/8" 371/4.5
+- Canon TS-E 17/4
+- Carl Zeiss Hasselblad-V Distagon 40/4 T* C
+- Carl Zeiss Hasselblad-V Planar 80/2.8 C
+- Carl Zeiss Hasselblad-V Sonnar 150/4 C
+- Carl Zeiss Hasselblad-V Sonnar 250/5.6 C
+- EL-Nikkor 105/5.6
+- EL-Nikkor 135/5.6
+- EL-Nikkor 75/4
+- EL-Nikkor 80/5.6
+- Fisheye Nikkor 16/2.8 Ai
+- Fujinon GF 120/4 Macro
+- Fujinon GF 20-35/4
+- Fujinon GF 250/4
+- Fujinon GF 45-100/4
+- Fujinon GF 45/2.8
+- Fujinon GF 50/3.5
+- Fujinon GF 55/1.7
+- Fujinon GF 80/1.7
+- GFX 100s body
+- GFX 50R fs body
+- GFX 50R fs-mono body
+- IRIX 11/4
+- IRIX 45/1.4 GFX
+- Kuribayashi clone 35/3.5
+- NKJ Nikkor-N Auto 24/2.8 Pre-Ai
+- Nikkor 135/2 Ai-S
+- Nikkor 20/3.5 Ai
+- Nikkor 50/1.8 Ai
+- Nikkor 55/1.2 Ai
+- Nikkor 85/1.4 Ai-S
+- Nikkor ED 300/2.8 Ai
+- Nikkor QD-C 15/5.6 Pre-Ai
+- Nikkor-N Auto 28/2 Ai
+- Nikkor-N Auto 35/1.4 Ai
+- Nikkor-Q Auto 200/4 Pre-Ai
+- Nikon D3 body
+- Nikon D600 fs body
+- Nikon D600 fs-mono body
+- Nikon Df body
+- Nikon F4 body
+- Nikon FA body
+- Nikon FM2 body
+- Nikon Series-E 100/2.8
+- Pentax 67 105/2.4
+- Pentax 67 body
+- SMC Pentax 67 165/2.8
+- SMC Pentax-6x7 55/4
+- SMC Pentax-A 645 35/3.5
+- SMC Pentax 67 45/4
+- Soligor 135/3.5
+- Soligor 35/3.5
+- Tamron 150-600/5-6.3
+- UV quartz lens 50/3.5 UV5035BK2
+- UV-Nikkor 105/4.5 Ai
+- Voigtlander Color Skopar 21/4 P VM
+- Voigtlander Nokton Classic 40/1.4 MC VM
+- Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
