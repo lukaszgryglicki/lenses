@@ -35,7 +35,8 @@
 - IRIX 11/4
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
-- (buying) Leica Tele-Elmarit-M 90/2.8
+- (in delivery) Leica Tele-Elmarit-M 90/2.8
+- (buying) Leica Elmar 13/4
 - NKJ Nikkor-N Auto 24/2.8 Pre-Ai
 - Nikkor 135/2 Ai-S
 - Nikkor 20/3.5 Ai
