@@ -21,14 +21,13 @@
 - EL-Nikkor 75/4
 - EL-Nikkor 80/5.6
 - Fisheye Nikkor 16/2.8 Ai
-- Fujinon GF 120/4 Macro
 - Fujinon GF 20-35/4
-- Fujinon GF 250/4
 - Fujinon GF 45-100/4
+- Fujinon GF 100-200/5.6
 - Fujinon GF 45/2.8
 - Fujinon GF 50/3.5
 - Fujinon GF 55/1.7
-- Fujinon GF 80/1.7
+- Fujinon GF 250/4
 - GFX 100s body
 - GFX 50R fs body
 - GFX 50R fs-mono body
