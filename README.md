@@ -28,9 +28,9 @@
 - Fujinon GF 50/3.5
 - Fujinon GF 55/1.7
 - Fujinon GF 250/4
-- GFX 100s body
-- GFX 50R fs body
-- GFX 50R fs-mono body
+- Fujifilm GFX 100s body
+- Fujifilm GFX 50R fs body
+- Fujifilm GFX 50R fs-mono body
 - IRIX 11/4
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
@@ -63,6 +63,7 @@
 - SMC Pentax 67 45/4
 - Soligor 135/3.5
 - Soligor 35/3.5
+- Sony A7C II body
 - Tamron 150-600/5-6.3
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
