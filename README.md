@@ -66,9 +66,10 @@
 - Tamron 150-600/5-6.3
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
-- Venus Laowa FFⅡ 9mm F5.6 W-Dreamer
+- Venus Laowa FF 9mm F5.6 W-Dreamer
 - Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
 - Voigtlander Color Skopar 21/4 P VM
 - Voigtlander Color Skopar 28mm F2.8 Aspherical
 - Voigtlander Nokton Classic 40/1.4 MC VM
 - Voigtlander Heliar Vintage Line 50mm F3.5 VM
+- Voigtlander Nokton 50mm f/1
