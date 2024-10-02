@@ -27,7 +27,6 @@
 - Fujinon GF 45/2.8
 - Fujinon GF 50/3.5
 - Fujinon GF 55/1.7
-- Fujinon GF 250/4
 - Fujifilm GFX 100s body
 - Fujifilm GFX 50R fs body
 - Fujifilm GFX 50R fs-mono body
@@ -64,12 +63,12 @@
 - Soligor 135/3.5
 - Soligor 35/3.5
 - Sony A7C II body
-- Tamron 150-600/5-6.3
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
 - Venus Laowa FF 9mm F5.6 W-Dreamer
 - Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
 - Voigtlander Color Skopar 21/4 P VM
+- Voigtlander Nokton 21/1.4 Aspherical
 - Voigtlander Color Skopar 28mm F2.8 Aspherical
 - Voigtlander Nokton Classic 40/1.4 MC VM
 - Voigtlander Heliar Vintage Line 50mm F3.5 VM
