@@ -33,6 +33,7 @@
 - IRIX 11/4
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
+- Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
 - NKJ Nikkor-N Auto 24/2.8 Pre-Ai
