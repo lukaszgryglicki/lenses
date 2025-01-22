@@ -36,6 +36,7 @@
 - Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
+- Leitz Super-Angulon 21mm f/4
 - Leitz Summaron-M 3.5cm f3.5
 - NKJ Nikkor-N Auto 24/2.8 Pre-Ai
 - Nikkor 135/2 Ai-S
