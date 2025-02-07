@@ -5,7 +5,7 @@
 - AF Nikkor 35/2 AF-D
 - AF Nikkor 50/1.4 AF-D
 - AF Nikkor 50/1.8 AF-D
-- AF Nikkor 85/1.4
+- AF Nikkor 85/1.4 AF
 - AF Micro Nikkor 105/2.8 AF-D
 - AF Nikkor 28-85 3.5-4.5 AF-D
 - AF Nikkor 80-200/2.8 AF-D
@@ -30,10 +30,10 @@
 - Fujifilm GFX 100s body
 - Fujifilm GFX 50R fs body
 - Fujifilm GFX 50R fs-mono body
-- IRIX 11/4
+- IRIX 11/4 Nikon-F
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
-- Leitz Super-Angulon 21mm f/4
+- Leitz Super-Angulon 21/4
 - Leitz Summaron-M 3.5cm f3.5
 - Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
@@ -67,11 +67,11 @@
 - Sony A7C II body fs (with clip-in filters: UV/IR cut, FS, IR780, IR-Chrome)
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
-- Venus Laowa FF 9mm F5.6 W-Dreamer
+- Venus Laowa FF 9/5.6 W-Dreamer Leica-M
 - Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
 - Voigtlander Color Skopar 21/4 P VM
 - Voigtlander Nokton 21/1.4 Aspherical
-- Voigtlander Color Skopar 28mm F2.8 Aspherical
+- Voigtlander Color Skopar 28/2.8 Aspherical
 - Voigtlander Nokton Classic 40/1.4 MC VM
-- Voigtlander Heliar Vintage Line 50mm F3.5 VM
-- Voigtlander Nokton 50mm f/1
+- Voigtlander Heliar Vintage Line 50/3.5 VM
+- Voigtlander Nokton 50/1
