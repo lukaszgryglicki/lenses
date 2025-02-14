@@ -33,7 +33,7 @@
 - Leica Summicron-M 50/2 Type 1
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
-- Leica typ 240 body
+- Leica Typ 240 body
 - Nikkor QD-C 15/5.6 Pre-Ai
 - Nikkor 20/3.5 Ai
 - Nippon Kogaku Japan Nikkor-N Auto 24/2.8 Pre-Ai
