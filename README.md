@@ -64,7 +64,8 @@
 - Voigtlander 15/4.5 III VM
 - Voigtlander Color Skopar 21/4 P VM
 - Voigtlander Nokton 21/1.4 Aspherical
-- Voigtlander Color Skopar 28/2.8 Aspherical
+- Voigtlander Color Skopar 28/2.8 Aspherical VM
+- Voigtlander Ultron 28/2 VM
 - Voigtlander Nokton Classic 40/1.4 MC VM
 - Voigtlander Heliar Vintage Line 50/3.5 VM
 - Voigtlander Nokton 50/1
