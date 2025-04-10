@@ -1,13 +1,9 @@
 # My cameras and lenses
 
-- AF Nikkor 14/2.8 AF-D
-- AF Nikkor 28/1.4 AF-D
-- AF Micro Nikkor 105/2.8 AF-D
 - AF Nikkor 28-85 3.5-4.5 AF-D
 - AF Nikkor 80-200/2.8 AF-D
 - AF Teleconverter TC-16A
 - Bausch & Lomb 10X12 Tessar 14-5/8" 371/4.5
-- Canon TS-E 17/4
 - Carl Zeiss Hasselblad-V Distagon 40/4 T* C
 - Carl Zeiss Hasselblad-V Planar 80/2.8 C
 - Carl Zeiss Hasselblad-V Sonnar 150/4 C
@@ -18,9 +14,6 @@
 - EL-Nikkor 135/5.6
 - Fisheye Nikkor 16/2.8 Ai
 - Fujinon GF 20-35/4
-- Fujinon GF 45-100/4
-- Fujinon GF 100-200/5.6
-- Fujinon GF 45/2.8
 - Fujinon GF 55/1.7
 - Fujifilm GFX 50R fs body
 - Fujifilm GFX 50R fs-mono body
@@ -33,12 +26,12 @@
 - Leica Summicron-M 50/2 Type 1
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
-- Leica Typ 240 body
+- Leica M11 Monochrom body + Visoflex II
 - Nikkor QD-C 15/5.6 Pre-Ai
 - Nikkor 20/3.5 Ai
 - Nippon Kogaku Japan Nikkor-N Auto 24/2.8 Pre-Ai
 - Nikkor-N Auto 28/2 Ai
-- Nikkor-N Auto 35/1.4 Ai
+- Nikkor-N Auto 35/1.4 Ai Thorium
 - Nikkor 50/1.8 Ai
 - Nikkor 55/1.2 Ai
 - Nikkor 85/1.4 Ai-S
@@ -56,7 +49,7 @@
 - SMC Pentax-6x7 55/4
 - SMC Pentax 67 45/4
 - Soligor 35/3.5
-- Sony A7C II body fs (with clip-in filters: UV/IR cut, FS, IR780, IR-Chrome)
+- Sony A7C II body fs (with clip-in filters: UV/IR cut, FS, IR780, IR-Chrome, HSK)
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
 - Venus Laowa FF 9/5.6 W-Dreamer Leica-M
