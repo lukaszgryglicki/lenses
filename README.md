@@ -1,7 +1,6 @@
 # My cameras and lenses
 
 - AF Nikkor 28-85 3.5-4.5 AF-D
-- AF Nikkor 80-200/2.8 AF-D
 - AF Teleconverter TC-16A
 - Bausch & Lomb 10X12 Tessar 14-5/8" 371/4.5
 - Carl Zeiss Hasselblad-V Distagon 40/4 T* C
@@ -14,7 +13,6 @@
 - EL-Nikkor 135/5.6
 - Fisheye Nikkor 16/2.8 Ai
 - Fujinon GF 20-35/4
-- Fujinon GF 55/1.7
 - Fujifilm GFX 50R fs body
 - Fujifilm GFX 50R fs-mono body
 - IRIX 11/4 Nikon-F
@@ -22,8 +20,9 @@
 - Kuribayashi clone 35/3.5
 - Leitz Super-Angulon 21/4
 - Leitz Summaron-M 3.5cm f3.5
-- Leica Summicron 50/2 Type 3
+- Leica Summicron-M 35mm f/2 Asph
 - Leica Summicron-M 50/2 Type 1
+- Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
 - Leica M11 Monochrom body + Visoflex II
