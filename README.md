@@ -7,7 +7,6 @@
 - Carl Zeiss Hasselblad-V Planar 80/2.8 C
 - Carl Zeiss Hasselblad-V Sonnar 150/4 C
 - Carl Zeiss Hasselblad-V Sonnar 250/5.6 C
-- EL-Nikkor 75/4
 - EL-Nikkor 80/5.6
 - EL-Nikkor 105/5.6
 - EL-Nikkor 135/5.6
@@ -19,9 +18,7 @@
 - IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
 - Leitz Super-Angulon 21/4
-- Leitz Summaron-M 3.5cm f3.5
 - Leica Summicron-M 35mm f/2 Asph
-- Leica Summicron-M 50/2 Type 1
 - Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
@@ -59,6 +56,8 @@
 - Voigtlander Nokton 21/1.4 Aspherical
 - Voigtlander Color Skopar 28/2.8 Aspherical VM
 - Voigtlander Ultron 28/2 VM
+- Voigtlander 35mm F1.2 Nokton Asph. VM II
 - Voigtlander Nokton Classic 40/1.4 MC VM
 - Voigtlander Heliar Vintage Line 50/3.5 VM
 - Voigtlander Nokton 50/1
+- Voigtlander 75mm F1.9 Ultron MC VM
