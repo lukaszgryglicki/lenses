@@ -3,10 +3,6 @@
 - AF Nikkor 28-85 3.5-4.5 AF-D
 - AF Teleconverter TC-16A
 - Bausch & Lomb 10X12 Tessar 14-5/8" 371/4.5
-- Carl Zeiss Hasselblad-V Distagon 40/4 T* C
-- Carl Zeiss Hasselblad-V Planar 80/2.8 C
-- Carl Zeiss Hasselblad-V Sonnar 150/4 C
-- Carl Zeiss Hasselblad-V Sonnar 250/5.6 C
 - EL-Nikkor 80/5.6
 - EL-Nikkor 105/5.6
 - EL-Nikkor 135/5.6
@@ -37,14 +33,7 @@
 - Nikon TC-201
 - Nikon D600 fs-mono body
 - Nikon Df body
-- Nikon F4 body
-- Nikon FA body
-- Nikon FM2 body
-- Pentax 67 105/2.4
-- Pentax 67 body
-- SMC Pentax 67 165/2.8
-- SMC Pentax-6x7 55/4
-- SMC Pentax 67 45/4
+- SIGMA 28-105mm F2.8 DG DN ART Sony-E
 - Soligor 35/3.5
 - Sony A7C II body fs (with clip-in filters: UV/IR cut, FS, IR780, IR-Chrome, HSK)
 - UV quartz lens 50/3.5 UV5035BK2
