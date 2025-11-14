@@ -39,6 +39,7 @@
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
 - Venus Laowa FF 9/5.6 W-Dreamer Leica-M
+- Venus Laowa 15mm f2 Zero-D Leica-M
 - Voigtlander Ultra Wide Heliar 12/5.6 Aspherical II VM
 - Voigtlander 15/4.5 III VM
 - Voigtlander Color Skopar 21/4 P VM
