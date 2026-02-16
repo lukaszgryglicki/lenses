@@ -8,17 +8,14 @@
 - EL-Nikkor 135/5.6
 - Fisheye Nikkor 16/2.8 Ai
 - Fujinon GF 20-35/4
-- Fujifilm GFX 50R fs body
-- Fujifilm GFX 50R fs-mono body
 - IRIX 11/4 Nikon-F
-- IRIX 45/1.4 GFX
 - Kuribayashi clone 35/3.5
 - Leitz Super-Angulon 21/4
-- Leica Summicron-M 35mm f/2 Asph
+- Leica Summicron-M 35mm f/2 7-element
 - Leica Summicron 50/2 Type 3
 - Leica Tele-Elmarit-M 90/2.8
 - Leica Elmar 135/4
-- Leica M11 Monochrom body + Visoflex II
+- Leica M11 Monochrom body naked sensor conversion + Visoflex II
 - Nikkor QD-C 15/5.6 Pre-Ai
 - Nikkor 20/3.5 Ai
 - Nippon Kogaku Japan Nikkor-N Auto 24/2.8 Pre-Ai
@@ -36,6 +33,7 @@
 - SIGMA 28-105mm F2.8 DG DN ART Sony-E
 - Soligor 35/3.5
 - Sony A7C II body fs (with clip-in filters: UV/IR cut, FS, IR780, IR-Chrome, HSK)
+- Sony GM 12-24/2.8
 - UV quartz lens 50/3.5 UV5035BK2
 - UV-Nikkor 105/4.5 Ai
 - Venus Laowa FF 9/5.6 W-Dreamer Leica-M
@@ -51,3 +49,4 @@
 - Voigtlander Heliar Vintage Line 50/3.5 VM
 - Voigtlander Nokton 50/1
 - Voigtlander 75mm F1.9 Ultron MC VM
+- Zeiss Biogon 25/2.8 ZM
